@@ -1,3 +1,4 @@
 comments
 no comments
 фунция x
+функция y
